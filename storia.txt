@@ -2,3 +2,6 @@ Era una notte buia e tempestosa e tre aspiranti programmatori vagavano
 nei meandri oscuri e misteriosi di GitHub.
 
 I rami oscillavano al vento e le impostazioni erano ben nascoste tra le foglie morte. Avevano smarrito la chiave SSH e non riuscivano ad entrare in casa. La situazione sembrava veramente senza via di uscita. Sarebbero riusciti a districarsi e a trovare un posto sicuro per il proprio codice?
+
+Per fortuna si ricordarono che nelle proprie tasche, avevano una cartella creata molti decenni prima, questa cartella era chiamata "Shell00" dentro la quale videro cio' che non speravano piu di trovare, la chiave ssh!!
+Grazie a tale chiave riuscirono a entrare nella loro casa avendo finalmente capito la differenza tra chiave pubblica e privata.
